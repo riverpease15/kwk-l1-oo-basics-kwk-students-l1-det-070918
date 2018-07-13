@@ -1,5 +1,11 @@
-class GoodDog
+def sound
   
+
+class GoodDog
 end
 
-Sparky = GoodDog.new
+class HumanBeing
+end
+
+
+
