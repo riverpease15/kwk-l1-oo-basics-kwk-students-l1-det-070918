@@ -18,3 +18,4 @@ sparky.speak("Arf!")
 sara = HumanBeing.new
 sara.speak("Hi!")
 
+end
