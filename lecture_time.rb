@@ -10,3 +10,4 @@ end
 Gryffindor1 =  HarryPotterCharacters.new("Harry", "Potter")
 Slytherin1  = HarryPotterCharacters.new("Draco", "Malfoy")
 Ravenclaw1 = HarryPotterCharacters.new("Luna", "Lovegood")
+Gryffindor2 = HarryPotterCharacters.new("Hermione", "Granger")
